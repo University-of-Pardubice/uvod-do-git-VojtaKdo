@@ -1,5 +1,4 @@
 # Software ngineering
-Empty project for trainining git
 
 ## Tabulka
 | Left columns  | Right columns |
